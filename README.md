@@ -8,13 +8,4 @@
 
 ### Recent Activity
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manateelazycat&theme=vue)
-
-## Recently used languages
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dezzw&theme=vue)
