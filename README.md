@@ -1,16 +1,20 @@
-### Hi there 👋
+# Trying To Be Better
 
-<!--
-**dezzw/dezzw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Coding Life
 
-Here are some ideas to get you started:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dezzw&count_private=true&show_icons=true&include_all_commits=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dezzw&layout=compact&langs_count=100&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl)
+
+### Recent Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manateelazycat&theme=vue)
+
+## Recently used languages
+<!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
